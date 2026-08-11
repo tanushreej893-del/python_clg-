@@ -1,2 +1,2 @@
-print("hi")
+print(9+4)
 print("hi")
